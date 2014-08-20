@@ -96,8 +96,16 @@ quotes:
     source: "The Legend of Zelda: A Link to the Past (SNES)"
   - text: "I, Garland, will knock you all down!"
     source: "Final Fantasy (NES)"
-  - text: "You're breaking the game, dude!"
+  - text: "You're breaking the GAME, dude!"
     source: "Borderlands 2 (PC/360/PS3)"
+  - text: "Welcome to MY Fantasy Zone. Get ready!"
+    source: "Bayonetta (360/PS3)"
+  - text: "テスト"
+    source: "テスト (てすと)"
+  - text: "Ready ? Many more battle scenes will soon be available !"
+    source: "Space Harrier (ARC)"
+  - text: "Go home and be a family man!"
+    source: "Street Fighter II: The World Warrior (SNES)"
   # Another quote looks like this:
   # - text: Thank you Mario. But our princess is in another castle! 
   #   source: Super Mario Bros. (NES)
