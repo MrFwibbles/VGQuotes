@@ -58,6 +58,26 @@ quotes:
     source: Final Fantasy VII (PS1)
   - text: I noticed this a while back, but you have far too many Game Overs. Sorry to be blunt, but you really stink at this game.
     source: MGS2 (PS2)
+  - text: Snake? Snake? SNAAAAAAAAKE!!!
+    source: Metal Gear Solid (PS1)
+  - text: I feel asleep!
+    source: Metal Gear (NES)
+  - text: Now, it is begining of a fantastic story!! Let's make a journey to the cave of monsters! Good luck!
+    source: Bubble Bobble (ARC)
+  - text: You spoony bard!
+    source: Final Fantasy IV (SNES)
+  - text: Are you a bad enough dude to rescue the president?
+    source: Bad Dudes (NES)
+  - text: Damn, those alien bastards are gonna pay for shooting up my ride.
+    source: Duke Nukem 3D (PC)
+  - text: I should have tied you to my bed, cutie!
+    source: Maniac Mansion (Various)
+  - text: Jill, here's a lockpick. It might come in handy if you, the master of unlocking, take it with you.
+    source: Resident Evil (PS1)
+  - text: All your base are belong to us.
+    source: Zero Wing (GEN)
+  - text: Do a barrel roll!
+    source: Star Fox 64 (N64)
   # Another quote looks like this:
   # - text: Thank you Mario. But our princess is in another castle! 
   #   source: Super Mario Bros. (NES)
