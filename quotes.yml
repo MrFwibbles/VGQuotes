@@ -1,6 +1,6 @@
 ---
 quotes:
-  - text: Thank you Mario, but our princess is in another castle!
+  - text: Thank you Mario. But our princess is in another castle!
     source: Super Mario Bros. (NES)
   - text: Your sins lay heavy upon you, defiler of souls! 
     source: Valkyrie Profile (PS1)
@@ -38,6 +38,8 @@ quotes:
     source: Super Mario Bros. 3 (NES)
   - text: Take your damn clothes off!
     source: Plumbers Don't Wear Ties (3DO)
+  - text: Welcome. My monkey is well today.
+    source: Monkey Puncher (GBC)
   # Another quote looks like this:
-  # - text: Thank you Mario, but our princess is in another castle! 
+  # - text: Thank you Mario. But our princess is in another castle! 
   #   source: Super Mario Bros. (NES)
