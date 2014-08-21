@@ -152,6 +152,12 @@ quotes:
     source: "Parappa the Rapper (PS1)"
   - text: "You don't have an inferiority complex - you're just inferior."
     source: "Wave Race: Blue Storm (GC)"
+  - text: "You think you can beat ME with THAT?! Loser."
+    source: "Gradius Gaiden (PS1)"
+  - text: "Pound through the entrails and shoot Abadon!"
+    source: "Salamander 2 (ARC)"
+  - text: "You were eaten by a grue."
+    source: "Zork I: The Great Underground Empire (PC)"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
