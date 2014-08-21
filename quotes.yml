@@ -172,6 +172,10 @@ quotes:
     source: "ClaDun: This is an RPG (PSP)"
   - text: "Black has built a silly dice-maze! Go!"
     source: "Gunstar Heroes (GEN)"
+  - text: "That town is so head that no persons can live in, and the town people have escaped."
+    source: "Pu-Li-Ru-La (ARC)"
+  - text: "I'm gonna mangle you green slimballs."
+    source: "TMNT IV: Turtles in Time (SNES)"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
