@@ -160,6 +160,8 @@ quotes:
     source: "Zork I: The Great Underground Empire (PC)"
   - text: "Magic EMPEROR Ghaleon!"
     source: "Lunar: Silver Star Story Complete (PS1)"
+  - text: "I am the Milkman. My milk is delicious. Special delivery today. GRAAAAAA!"
+    source: "Psychonauts (PS2/Xbox)"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
