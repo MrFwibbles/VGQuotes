@@ -165,7 +165,9 @@ quotes:
   - text: "Use your head... literally!"
     source: "Earthworm Jim (SNES)"
   - text: "You need some practice."
-    source: "Gradius 2 (ARC)"
+    source: "Gradius II (ARC)"
+  - text: "I was born out of the greediness of mankind. While men exist, so will I."
+    source: "Gradius III (ARC)"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
