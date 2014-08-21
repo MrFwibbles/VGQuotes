@@ -164,6 +164,8 @@ quotes:
     source: "Psychonauts (PS2/Xbox)"
   - text: "Use your head... literally!"
     source: "Earthworm Jim (SNES)"
+  - text: "You need some practice."
+    source: "Gradius 2 (ARC)"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
