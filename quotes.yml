@@ -2,8 +2,14 @@
 quotes:
   - text: "Thank you Mario! But our princess is in another castle!"
     source: "Super Mario Bros. (NES)"
+    tags:
+      - "supermariobros"
+      - "supermario"
   - text: "Your sins lay heavy upon you, defiler of souls!"
     source: "Valkyrie Profile (PS1)"
+    tags:
+      - "valkyrieprofile"
+      - "valkyrieprofilelenneth"
   - text: "What is a man? A miserable little pile of secrets. But enough talk... Have at you!"
     source: "Castlevania: Symphony of the Night (PS1)"
   - text: "My guise doth not incur thy trust..."
@@ -178,6 +184,10 @@ quotes:
     source: "TMNT IV: Turtles in Time (SNES)"
   - text: "If you ever speak in that manner again, I shall cleave you in two."
     source: "Skies of Arcadia (DC)"
+  - text: "You must recover all de energy immedibly W-Mega Man..."
+    source: "Mega Man 8 (PS1)"
+  - text: "No, this isn't happening! There's no reason for me to go on! What... WHAT AM I FIGHTING FOOOOOORRRRRR?!"
+    source: "Mega Man X4 (PS1)"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
