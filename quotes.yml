@@ -5,6 +5,7 @@ quotes:
     tags:
       - "supermariobros"
       - "supermario"
+      - "mario"
   - text: "Your sins lay heavy upon you, defiler of souls!"
     source: "Valkyrie Profile (PS1)"
     tags:
@@ -12,20 +13,48 @@ quotes:
       - "valkyrieprofilelenneth"
   - text: "What is a man? A miserable little pile of secrets. But enough talk... Have at you!"
     source: "Castlevania: Symphony of the Night (PS1)"
+    tags:
+      - "sotn"
+      - "symphonyofthenight"
+      - "castlevania"
+      - "nocturneinthemoonlight"
   - text: "My guise doth not incur thy trust..."
     source: "Chrono Trigger (SNES)"
+    tags:
+      - "chronotrigger"
   - text: "Prepare for word torture! I'm full of dangerous phrases that should be censored!"
     source: "Wild Arms 2 (PS1)"
+    tags:
+      - "wildarms2"
   - text: "There ya go! Milk's perfect for a schoolboy, I'd say!"
     source: "Shenmue (DC)"
+    tags:
+      - "shenmue"
   - text: "(You fight like a dairy farmer.) How appropriate. You fight like a cow."
     source: "The Secret of Monkey Island (Amiga)"
+    tags:
+      - "thesecretofmonkeyisland"
+      - "secretofmonkeyisland"
+      - "monkeyisland"
   - text: "It's dangerous to go alone! Take this."
     source: "The Legend of Zelda (NES)"
+    tags:
+      - "zelda"
+      - "thelegendofzelda"
+      - "legendofzelda"
   - text: "S-Sensei! Am I about to climb the stairway to adulthood!?"
     source: "Persona 4: Golden (PSV)"
+    tags:
+      - "persona4"
+      - "persona4golden"
+      - "persona4thegolden"
+      - "shinmegamitensei"
+      - "smt"
+      - "shinmegamitenseipersona4"
   - text: "I had that dream again... The bastards! They're hounding me!"
     source: "Grandia (PS1)"
+    tags:
+      - "grandia"
   - text: "We may be pirates, but we're not barbarians! ...We'll let them keep the toilet paper."
     source: "Mega Man Legends (PS1)"
   - text: "It's like my Rattata is in the top percentage of Rattatas."
