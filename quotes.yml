@@ -579,6 +579,13 @@ quotes:
       - "starfox64"
       - "starfox"
       - "lylatwars"
+  - text: "Send in the choppers, and when you find those kids, don't waste any time - just nab 'em!"
+    source: "Jet Set Radio (DC)"
+    tags:
+      - "jetsetradio"
+      - "jetgrindradio"
+      - "jsr"
+      - "jgr"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
