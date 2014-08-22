@@ -597,6 +597,25 @@ quotes:
       - "scrambledvalkyrie"
       - "macrossscrambledvalkyrie"
       - "robotech"
+  - text: "Say, 'fuzzy pickles.'"
+    source: "Earthbound (SNES)"
+    tags:
+      - "earthbound"
+      - "mother2"
+  - text: "And this battle shall be the delicious mustard on that bread! The mustard of your doom!"
+    source: "Mario & Luigi: Superstar Saga (GBA)"
+    tags:
+      - "marioandluigi"
+      - "superstarsaga"
+      - "marioandluigisuperstarsaga"
+      - "marioandluigirpg"
+  - text: "Your lives that I spit on are now but a caricature of a cartoon drawn by a kid who is stupid!"
+    source: "Mario & Luigi: Superstar Saga (GBA)"
+    tags:
+      - "marioandluigi"
+      - "superstarsaga"
+      - "marioandluigisuperstarsaga"
+      - "marioandluigirpg"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
