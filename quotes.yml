@@ -560,6 +560,25 @@ quotes:
       - "finalfantasy6"
       - "finalfantasyvi"
       - "finalfantasy"
+  - text: "Walk the seasons from spring to winter, spring again and we can enter..."
+    source: "Secret of Mana (SNES)"
+    tags:
+      - "som"
+      - "secretofmana"
+      - "seikendensetsu2"
+  - text: "Here's the clue. Palm trees.. and 8. Got it?"
+    source: "Final Fantasy Adventure (GB)"
+    tags:
+      - "ffa"
+      - "finalfantasyadventure"
+      - "mysticquest"
+      - "seikendensetsu"
+  - text: "Can't let you do that, Star Fox!"
+    source: "Star Fox 64 (N64)"
+    tags:
+      - "starfox64"
+      - "starfox"
+      - "lylatwars"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
