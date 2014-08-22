@@ -590,6 +590,13 @@ quotes:
     source: "Grim Fandango (PC)"
     tags:
       - "grimfandango"
+  - text: "We sot a new machine, for the fighting. now the time to scramble valkyrie again."
+    source: "Macross: Scrambled Valkyrie (SFC)"
+    tags:
+      - "macross"
+      - "scrambledvalkyrie"
+      - "macrossscrambledvalkyrie"
+      - "robotech"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
