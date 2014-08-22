@@ -586,6 +586,10 @@ quotes:
       - "jetgrindradio"
       - "jsr"
       - "jgr"
+  - text: "As a rule, I never touch anything more sophisticated and delicate than myself."
+    source: "Grim Fandango (PC)"
+    tags:
+      - "grimfandango"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
