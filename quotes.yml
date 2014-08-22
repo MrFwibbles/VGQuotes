@@ -616,6 +616,51 @@ quotes:
       - "superstarsaga"
       - "marioandluigisuperstarsaga"
       - "marioandluigirpg"
+  - text: "Never pay more than 20 bucks for a computer game."
+    source: "The Secret of Monkey Island (Amiga)"
+    tags:
+      - "thesecretofmonkeyisland"
+      - "secretofmonkeyisland"
+      - "monkeyisland"
+  - text: "SORRY, I'M DEAD."
+    source: "Monster Party (NES)"
+    tags:
+      - "monsterparty"
+  - text: "Would you kindly?"
+    source: "Bioshock (PC/PS3/360)"
+    tags:
+      - "bioshock"
+  - text: "You have died of dysentery."
+    source: "The Oregon Trail (Apple II)"
+    tags:
+      - "theoregontrail"
+      - "oregontrail"
+  - text: "It's-a me, Mario!"
+    source: "Super Mario 64 (N64)"
+    tags:
+      - "supermario64"
+      - "mario64"
+      - "supermario"
+  - text: "The black wind howls... One among you... ...will shortly perish."
+    source: "Chrono Trigger (SNES)"
+    tags:
+      - "chronotrigger"
+  - text: "They made you do what? Like a monkey?!"
+    source: "Timesplitters: Future Perfect (PS2/GC/Xbox)"
+    tags:
+      - "timesplitters"
+      - "futureperfect"
+      - "timesplittersfutureperfect"
+  - text: "You know NOTHING, fool! It's CHAOS, the GOD of DESTRUCTION!!"
+    source: "Sonic Adventure (DC)"
+    tags:
+      - "sa1"
+      - "sonicadventure"
+  - text: "You're not even good enough to be my fake."
+    source: "Sonic Adventure 2 (DC)"
+    tags:
+      - "sa2"
+      - "sonicadventure2"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
