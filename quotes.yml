@@ -661,6 +661,11 @@ quotes:
     tags:
       - "sa2"
       - "sonicadventure2"
+  - text: "Welcome to Violent City!"
+    source: "Armed Police Batrider (ARC)"
+    tags:
+      - "batrider"
+      - "armedpolicebatrider"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
