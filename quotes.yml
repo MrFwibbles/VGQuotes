@@ -666,6 +666,11 @@ quotes:
     tags:
       - "batrider"
       - "armedpolicebatrider"
+    - text: "Akuu Garett blows your socks off!"
+    source: "Air Gallet (ARC)"
+    tags:
+      - "akuugaretto"
+      - "airgallet"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
