@@ -666,12 +666,12 @@ quotes:
     tags:
       - "batrider"
       - "armedpolicebatrider"
-    - text: "Akuu Garett blows your socks off!"
+  - text: "Akuu Garett blows your socks off!"
     source: "Air Gallet (ARC)"
     tags:
       - "akuugaretto"
       - "airgallet"
-    - text: "Pull the knob of control, and duck punches ! Let's master ducking ! Good duck !!"
+  - text: "Pull the knob of control, and duck punches ! Let's master ducking ! Good duck !!"
     source: "Super Punch-Out!! (ARC)"
     tags:
       - "punchout"
