@@ -676,6 +676,10 @@ quotes:
     tags:
       - "punchout"
       - "superpunchout"
+  - text: "NOW IS THE TIME TO THE 68000 HEART ON FIRE!"
+    source: "Alien Soldier (GEN)"
+    tags:
+      - "aliensoldier"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
