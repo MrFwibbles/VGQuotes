@@ -688,6 +688,10 @@ quotes:
     source: "Bionic Commando (NES)"
     tags:
       - "bioniccommando"
+- text: "You fulfiled your mission. It will revive peace in space. But,it may be invaded by the other metroid."
+    source: "Metroid (NES)"
+    tags:
+      - "metroid"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
