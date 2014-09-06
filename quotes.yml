@@ -680,6 +680,14 @@ quotes:
     source: "Alien Soldier (GEN)"
     tags:
       - "aliensoldier"
+- text: "On the planet 'Farmel', they had the gloriest days for two centuries, since the stardate had established."
+    source: "Air Fortress (FC)"
+    tags:
+      - "airfortress"
+- text: "This base will explod in 60 seconds."
+    source: "Bionic Commando (NES)"
+    tags:
+      - "bioniccommando"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
