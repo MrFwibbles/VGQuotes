@@ -680,15 +680,15 @@ quotes:
     source: "Alien Soldier (GEN)"
     tags:
       - "aliensoldier"
-- text: "On the planet 'Farmel', they had the gloriest days for two centuries, since the stardate had established."
+  - text: "On the planet 'Farmel', they had the gloriest days for two centuries, since the stardate had established."
     source: "Air Fortress (FC)"
     tags:
       - "airfortress"
-- text: "This base will explod in 60 seconds."
+  - text: "This base will explod in 60 seconds."
     source: "Bionic Commando (NES)"
     tags:
       - "bioniccommando"
-- text: "You fulfiled your mission. It will revive peace in space. But,it may be invaded by the other metroid."
+  - text: "You fulfiled your mission. It will revive peace in space. But,it may be invaded by the other metroid."
     source: "Metroid (NES)"
     tags:
       - "metroid"
