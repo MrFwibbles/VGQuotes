@@ -692,6 +692,13 @@ quotes:
     source: "Metroid (NES)"
     tags:
       - "metroid"
+  - text: "The chest is empty, but you may now fill it with your tears."
+    source: "The Legend of Heroes: Trails in the Sky (PSP)"
+    tags:
+      - "trailsinthesky"
+      - "tits"
+      - "legendofheroes"
+      - "thelegendofheroes"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
