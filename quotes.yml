@@ -699,6 +699,13 @@ quotes:
       - "tits"
       - "legendofheroes"
       - "thelegendofheroes"
+  - text: "Did you know asbestos is yummy too? You should try some later!"
+    source: "Danganronpa 2: Goodbye Despair (PSV)"
+    tags:
+      - "danganronpa"
+      - "danganronpa2"
+      - "goodbyedespair"
+      - "danganronpa2goodbyedespair"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
