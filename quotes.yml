@@ -706,6 +706,10 @@ quotes:
       - "danganronpa2"
       - "goodbyedespair"
       - "danganronpa2goodbyedespair"
+  - text: "Rub anywhere you like!"
+    source: "Cooking Mama (DS)"
+    tags:
+      - "cookingmama"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
