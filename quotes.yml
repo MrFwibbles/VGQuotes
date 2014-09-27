@@ -710,6 +710,11 @@ quotes:
     source: "Cooking Mama (DS)"
     tags:
       - "cookingmama"
+  - text: "At times like this, kids like you should be playing Nintendo games."
+    source: "Earthbound (SNES)"
+    tags:
+      - "earthbound"
+      - "mother2"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
