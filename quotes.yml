@@ -715,6 +715,12 @@ quotes:
     tags:
       - "earthbound"
       - "mother2"
+  - text: "The sky is falling!"
+    source: "Powerstone 2 (DC)"
+    tags:
+      - "powerstone2"
+      - "powerstoneii"
+      - "powerstone"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
