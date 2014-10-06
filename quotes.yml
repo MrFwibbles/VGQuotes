@@ -721,6 +721,18 @@ quotes:
       - "powerstone2"
       - "powerstoneii"
       - "powerstone"
+  - text: "You can trust him with your darkest secrets because he is a rock and can't speak."
+    source: "Super Smash Bros. for 3DS (3DS)"
+    tags:
+      - "ssb4"
+      - "sm4sh"
+      - "supersmashbrosfor3ds"
+      - "smashbros3ds"
+      - "supersmashbros3ds"
+      - "smashbros"
+      - "supersmashbros"
+      - "smash4"
+      - "smashbros4"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
