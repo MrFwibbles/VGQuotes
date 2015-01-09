@@ -751,6 +751,10 @@ quotes:
       - "shantae3"
       - "shantae"
       - "shantae3ds"
+  - text: "You dirty scoundrel!"
+    source: "Golden Sun (GBA)"
+    tags:
+      - "goldensun"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
