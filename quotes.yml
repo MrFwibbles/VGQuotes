@@ -755,6 +755,14 @@ quotes:
     source: "Golden Sun (GBA)"
     tags:
       - "goldensun"
+  - text: "If being totally blind is okay, then I'm freakin' PEACHY!"
+    source: "Tales of Hearts R (PSV)"
+    tags:
+      - "tohr"
+      - "talesofheartsr"
+      - "talesofhearts"
+      - "talesofheart"
+      - "talesofheartr"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
