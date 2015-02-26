@@ -767,6 +767,12 @@ quotes:
     source: "Chulip (PS2)"
     tags:
       - "chulip"
+  - text: "The Bananas has gone bad."
+    source: "Dead or Alive Xtreme Beach Volleyball (Xbox)"
+    tags:
+      - "doa"
+      - "doaxtremebeachvolleyball"
+      - "deadoralivextremebeachvolleyball"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
