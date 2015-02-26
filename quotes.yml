@@ -763,6 +763,10 @@ quotes:
       - "talesofhearts"
       - "talesofheart"
       - "talesofheartr"
+  - text: "You can't kiss just randomly. You'll be kicked and punched, and feel miserable."
+    source: "Chulip (PS2)"
+    tags:
+      - "chulip"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
