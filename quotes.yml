@@ -778,6 +778,10 @@ quotes:
     tags:
       - "bayonetta"
       - "bayonetta2"
+  - text: "I want to ask her, 'Are you an American or something?' but I'm distracted by her shiny bicycle."
+    source: "Steins;Gate (Various)"
+    tags:
+      - "steinsgate"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
