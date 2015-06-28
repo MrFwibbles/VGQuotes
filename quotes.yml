@@ -782,6 +782,14 @@ quotes:
     source: "Steins;Gate (Various)"
     tags:
       - "steinsgate"
+  - text: "My mind is clear, like the woodland after a forest fire."
+    source: "Sly Cooper 3 (PS2)"
+    tags:
+      - "slycooper"
+      - "slycooper3"
+      - "sly3"
+      - "sly3honoramongthieves"
+      - "honoramongthieves"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
