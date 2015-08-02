@@ -790,6 +790,10 @@ quotes:
       - "sly3"
       - "sly3honoramongthieves"
       - "honoramongthieves"
+  - text: "Do not analyze me! I pay people for that."
+    source: "Life is Strange (PS4)"
+    tags:
+      - "lifeisstrange"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
