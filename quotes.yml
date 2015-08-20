@@ -794,6 +794,14 @@ quotes:
     source: "Life is Strange (PS4)"
     tags:
       - "lifeisstrange"
+  - text: "The black magic of the family Tsao is unstoppable."
+    source: "Sly 3: Honor Among Thieves (PS2)"
+    tags:
+      - "sly3honoramongthieves"
+      - "sly3"
+      - "slycooper"
+      - "honoramongthieves"
+      - "slycooper3"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
