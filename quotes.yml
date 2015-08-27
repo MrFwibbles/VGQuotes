@@ -802,6 +802,13 @@ quotes:
       - "slycooper"
       - "honoramongthieves"
       - "slycooper3"
+  - text: "Here lies Count Uptaten, whose number is now sadly up."
+    source: "Dragon Quest V"
+    tags:
+      - "dragonquestv"
+      - "dragonquest5"
+      - "dqv"
+      - "dq5"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
