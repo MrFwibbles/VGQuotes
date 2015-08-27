@@ -809,6 +809,13 @@ quotes:
       - "dragonquest5"
       - "dqv"
       - "dq5"
+  - text: "Stop talking to yourself and come upstairs before you catch a cold."
+    source: "Dragon Quest V"
+    tags:
+      - "dragonquestv"
+      - "dragonquest5"
+      - "dqv"
+      - "dq5"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
