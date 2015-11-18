@@ -816,6 +816,13 @@ quotes:
       - "dragonquest5"
       - "dqv"
       - "dq5"
+  - text: "You despicable blight!"
+    source: "Castlevania: Circle of the Moon"
+    tags:
+      - "castlevania"
+      - "circleofthemoon"
+      - "castlevaniacircleofthemoon"
+      - "castlevaniagba"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
