@@ -803,28 +803,28 @@ quotes:
       - "honoramongthieves"
       - "slycooper3"
   - text: "Here lies Count Uptaten, whose number is now sadly up."
-    source: "Dragon Quest V"
+    source: "Dragon Quest V (DS)"
     tags:
       - "dragonquestv"
       - "dragonquest5"
       - "dqv"
       - "dq5"
   - text: "Stop talking to yourself and come upstairs before you catch a cold."
-    source: "Dragon Quest V"
+    source: "Dragon Quest V (DS)"
     tags:
       - "dragonquestv"
       - "dragonquest5"
       - "dqv"
       - "dq5"
   - text: "You despicable blight!"
-    source: "Castlevania: Circle of the Moon"
+    source: "Castlevania: Circle of the Moon (GBA)"
     tags:
       - "castlevania"
       - "circleofthemoon"
       - "castlevaniacircleofthemoon"
       - "castlevaniagba"
   - text: "I think I know what she just said. She called you a pervert."
-    source: "Tales of Eternia"
+    source: "Tales of Eternia (PS1)"
     tags:
       - "talesofeternia"
       - "eternia"
@@ -832,7 +832,11 @@ quotes:
       - "toe"
       - "todii"
   - text: "On days like these, kids like you... Should be burning in hell."
-    source: "Undertale"
+    source: "Undertale (PC)"
+    tags:
+      - "Undertale"
+  - text: "Someone be beyond the wall."
+    source: "Wonder Boy in Monster Land (SMS)"
     tags:
       - "Undertale"
   # Another quote looks like this:
