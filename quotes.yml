@@ -838,7 +838,11 @@ quotes:
   - text: "Someone be beyond the wall."
     source: "Wonder Boy in Monster Land (SMS)"
     tags:
-      - "Undertale"
+      - "wonderboy"
+      - "wonderboy2"
+      - "wonderboyii"
+      - "wonderboyinmonsterland"
+      - "monsterland"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
