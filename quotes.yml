@@ -843,6 +843,14 @@ quotes:
       - "wonderboyii"
       - "wonderboyinmonsterland"
       - "monsterland"
+  - text: "I have a customer. There is someone who is interested in my pot."
+    source: "Tales of Destiny II (PS1)"
+    tags:
+      - "todii"
+      - "talesofdestinyii"
+      - "talesofeternia"
+      - "talesof"
+      - "eternia"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
