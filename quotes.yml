@@ -859,6 +859,10 @@ quotes:
       - "talesofeternia"
       - "talesof"
       - "eternia"
+  - text: "Your clothes. Hand them over."
+    source: "Radiant Historia (DS)"
+    tags:
+      - "radianthistoria"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
