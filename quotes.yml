@@ -863,6 +863,14 @@ quotes:
     source: "Radiant Historia (DS)"
     tags:
       - "radianthistoria"
+  - text: "Another terrifying e-mail from Princess Peach? Are you sure it wasn't spam?"
+    source: "Paper Mario: TTYD (GC)"
+    tags:
+      - "papermario"
+      - "papermariottyd"
+      - "papermariothethousandyeardoor"
+      - "ttyd"
+      - "thethousandyeardoor"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
