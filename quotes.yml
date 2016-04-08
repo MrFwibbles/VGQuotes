@@ -871,6 +871,10 @@ quotes:
       - "papermariothethousandyeardoor"
       - "ttyd"
       - "thethousandyeardoor"
+  - text: "How come my line has no voice-over? Is it because we're extras? This sucks."
+    source: "Thousand Arms (PS1)"
+    tags:
+      - "thousandarms"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
