@@ -914,6 +914,13 @@ quotes:
     source: "Demon Gaze (PSV)"
     tags:
       - "demongaze"
+  - text: "I don't do magic, I'm just a horse."
+    source: "Day of the Tentacle Remastered (PS4/PSV)"
+    tags:
+      - "dayofthetentacle"
+      - "dayofthetentacleremastered"
+      - "dott"
+      - "dottremastered"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
