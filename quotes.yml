@@ -921,6 +921,14 @@ quotes:
       - "dayofthetentacleremastered"
       - "dott"
       - "dottremastered"
+  - text: "You little hoochees!"
+    source: "Lufia II: Rise of the Sinistrals (SNES)"
+    tags:
+      - "lufia2"
+      - "lufiaii"
+      - "lufiaiiriseofthesinistrals"
+      - "lufia2riseofthesinistrals"
+      - "riseofthesinistrals"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
