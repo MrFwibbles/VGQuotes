@@ -929,6 +929,13 @@ quotes:
       - "lufiaiiriseofthesinistrals"
       - "lufia2riseofthesinistrals"
       - "riseofthesinistrals"
+  - text: "You pick up a great big piece of Pokémon garbage!"
+    source: "Pokémon Sun/Moon (3DS)"
+    tags:
+      - "pokemonsun"
+      - "pokemonmoon"
+      - "pokémonsun"
+      - "pokémonmoon"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
