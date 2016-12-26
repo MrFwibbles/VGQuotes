@@ -936,6 +936,11 @@ quotes:
       - "pokemonmoon"
       - "pokémonsun"
       - "pokémonmoon"
+  - text: "Rod, you can have my pumpkins, and I'll take your meatballs, OK?"
+    source: "Threads of Fate (PS1)"
+    tags:
+      - "threadsoffate"
+      - "dewprism"
   # Another quote looks like this:
   # - text: "Thank you Mario! But our princess is in another castle!" 
   #   source: "Super Mario Bros. (NES)"
